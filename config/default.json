@@ -1,0 +1,6 @@
+{
+    "validatorOption": "Joi",
+    "dbOption": "mongo",
+    "logger": "morgan",
+      "jwtKey": "YourPrivateKeyVer3"
+}
